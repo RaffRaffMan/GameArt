@@ -20,6 +20,7 @@ The project is intended to function as a live workshop. You start with the file 
 ## References
 
 [https://www.pygame.org/docs/](https://www.pygame.org/docs/)
+
 [https://github.com/rammy427/pygame-template](https://github.com/rammy427/pygame-template)
 
 ## Next Step
